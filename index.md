@@ -1,37 +1,24 @@
-## Welcome to Eko Nur Arifin Pages
+## Eko Nur Arifin
+### Software Developer
 
-You can use the [editor on GitHub](https://github.com/ary21/ary21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+> Love coding, enjoy explore and sharing. Happy to solve problem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`From Indonesia, since 2016 working as software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance`
 
-### Markdown
+### Experiance :
+- CV. Intermedia Solusindo (2016)
+- CV. Ardantus Group Sejahtera (Freelance)
+- Halal Pro Web Design (Freelance)
+- Dokterwebsite.id (Freelance)
+- Hoscloud.co.id - CV.Mitra Teknologi Digital (2019)
+- Orenda.co.id - PT. Prima Nusa Digital (2020) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### For more find me here :
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ary21/ary21.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Web : [ekonurarifin.my.id](https://ekonurarifin.my.id/)
+* Github : [https://github.com/ary21/](https://github.com/ary21/)
+* Linkedin : [https://www.linkedin.com/in/eko-nur-arifin/](https://www.linkedin.com/in/eko-nur-arifin/)
+* Twitter : [https://twitter.com/EkonurArifin85](https://twitter.com/EkonurArifin85)
+* Instagram : [https://www.instagram.com/ekonurarifin58/](https://www.instagram.com/ekonurarifin58/)
+* Facebook : [https://www.facebook.com/eko.nurarifin21/](https://www.facebook.com/eko.nurarifin21/)
+* Telegram : [https://t.me/ekonurarifin21](https://t.me/ekonurarifin21)
