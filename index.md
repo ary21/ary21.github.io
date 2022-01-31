@@ -12,8 +12,9 @@
 - NestJS
 - GraphQL
 - ReactJS
+- Sequelize, TypeORM, Mongoose
 - PHP : Codeigniter, Laravel
-- Database : MySQL/MariaDB, MongooDB, Postgre
+- Database : MySQL/MariaDB, MongoDB, Postgres
 - HTML, CSS, Javascript, JQuery
 
 ### Experience :
