@@ -6,10 +6,8 @@
 `From Indonesia, since 2016 working as a software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance mostly as Fullstack Web Developer but preferably more like as Backend.`
 
 ### Working with :
-- NodeJS
-- ExpressJS
+- NodeJS, ExpressJS, NestJS
 - Typescript
-- NestJS
 - GraphQL
 - ReactJS, MaterialUI, Tailwind
 - Sequelize, TypeORM, Mongoose
