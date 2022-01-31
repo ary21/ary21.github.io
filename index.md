@@ -15,10 +15,10 @@
 
 ### For more find me here :
 
-* Web : [ekonurarifin.my.id](https://ekonurarifin.my.id/)
-* Github : [https://github.com/ary21/](https://github.com/ary21/)
-* Linkedin : [https://www.linkedin.com/in/eko-nur-arifin/](https://www.linkedin.com/in/eko-nur-arifin/)
-* Twitter : [https://twitter.com/EkonurArifin85](https://twitter.com/EkonurArifin85)
-* Instagram : [https://www.instagram.com/ekonurarifin58/](https://www.instagram.com/ekonurarifin58/)
-* Facebook : [https://www.facebook.com/eko.nurarifin21/](https://www.facebook.com/eko.nurarifin21/)
-* Telegram : [https://t.me/ekonurarifin21](https://t.me/ekonurarifin21)
+* Web : [ekonurarifin.my.id](https://ekonurarifin.my.id/){:target="_blank"}
+* Github : [https://github.com/ary21/](https://github.com/ary21/){:target="_blank"}
+* Linkedin : [https://www.linkedin.com/in/eko-nur-arifin/](https://www.linkedin.com/in/eko-nur-arifin/){:target="_blank"}
+* Twitter : [https://twitter.com/EkonurArifin85](https://twitter.com/EkonurArifin85){:target="_blank"}
+* Instagram : [https://www.instagram.com/ekonurarifin58/](https://www.instagram.com/ekonurarifin58/){:target="_blank"}
+* Facebook : [https://www.facebook.com/eko.nurarifin21/](https://www.facebook.com/eko.nurarifin21/){:target="_blank"}
+* Telegram : [https://t.me/ekonurarifin21](https://t.me/ekonurarifin21){:target="_blank"}
