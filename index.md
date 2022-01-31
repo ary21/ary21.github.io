@@ -1,7 +1,7 @@
 ## Eko Nur Arifin
 ### Software Developer
 
-> LOVE CODING, ENJOY EXPLORE AND SHARING. HAPPY TO SOLVE PROBLEM.
+> LOVE CODING, ENJOY EXPLORING AND SHARING. HAPPY SOLVING PROBLEMS.
 
 `From Indonesia, since 2016 working as a software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance mostly as Fullstack Web Developer but preferably more like as Backend.`
 
