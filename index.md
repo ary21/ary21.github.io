@@ -1,11 +1,11 @@
 ## Eko Nur Arifin
 ### Software Developer
 
-> Love coding, enjoy explore and sharing. Happy to solve problem.
+> LOVE CODING, ENJOY EXPLORE AND SHARING. HAPPY TO SOLVE PROBLEM.
 
 `From Indonesia, since 2016 working as software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance`
 
-### Experiance :
+### Experience :
 - CV. Intermedia Solusindo (2016)
 - CV. Ardantus Group Sejahtera (Freelance)
 - Halal Pro Web Design (Freelance)
