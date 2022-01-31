@@ -11,11 +11,11 @@
 - Typescript
 - NestJS
 - GraphQL
-- ReactJS
+- ReactJS, MaterialUI, Tailwind
 - Sequelize, TypeORM, Mongoose
-- PHP : Codeigniter, Laravel
+- PHP: Codeigniter, Laravel
 - Database : MySQL/MariaDB, MongoDB, Postgres
-- HTML, CSS, Javascript, JQuery
+- HTML, CSS, Javascript, JQuery, Bootstrap
 
 ### Experience :
 - CV. Intermedia Solusindo (2016)
