@@ -3,7 +3,18 @@
 
 > LOVE CODING, ENJOY EXPLORE AND SHARING. HAPPY TO SOLVE PROBLEM.
 
-`From Indonesia, since 2016 working as software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance`
+`From Indonesia, since 2016 working as a software developer, bachelor of informatics engineering graduate. Completed some projects as official work also as freelance mostly as Fullstack Web Developer but preferably more like as Backend.`
+
+### Working with :
+- NodeJS
+- ExpressJS
+- Typescript
+- NestJS
+- GraphQL
+- ReactJS
+- PHP : Codeigniter, Laravel
+- Database : MySQL/MariaDB, MongooDB, Postgre
+- HTML, CSS, Javascript, JQuery
 
 ### Experience :
 - CV. Intermedia Solusindo (2016)
